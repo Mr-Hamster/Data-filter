@@ -85,7 +85,6 @@ export default class Data extends React.Component{
                         <Button variant="warning" value = 'yellow' onClick={this.handleChange}>Yellow</Button>
                         <Button variant="success" value = 'green' onClick={this.handleChange}>Green</Button>
                     </ButtonToolbar>
-                    <hr />
                     <h3>Result:</h3>
                 <div className="wrapperBlocks">
                     {
